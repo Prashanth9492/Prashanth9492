@@ -66,6 +66,13 @@ A passionate **Full-Stack Web Developer & Designer**, always exploring new techn
   <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,notion,netlify,vscode" />
 </p>
 
+
+---
+
+🚀 *Always learning, always building.*  
+🤝 *Open to collaborations & innovative ideas.*
+
+
 ### 🧠 Programming Languages
 
 <p>
