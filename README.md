@@ -8,34 +8,24 @@ A passionate **Full-Stack Web Developer & Designer**, always exploring new techn
 
 ## 🚀 Know About Me!!
 
-- 💻 Full-stack developer with a love for technology and creativity  
-- 🌍 Passionate about real-world projects blending **design, development & AI**  
-- 🌱 Lifelong learner, adapting to new challenges in tech  
-- 🤝 Love collaborating and sharing knowledge to create positive impact  
+- 💻 Developer with a passion for creating impactful and visually appealing web applications
+- 🎨 Love combining design, development, and problem-solving
+- 🌱 Curious learner exploring new technologies and best practices
+- 🤝 Enjoy collaborating with others to build innovative solutions
 
 ---
 
 ## 🌐 Portfolio
-🔗 [Visit My Portfolio](https://your-portfolio-link.com)
+🔗 [Visit My Portfolio](https://prashanth-portfolio-three.vercel.app/)
 
 ---
 
 ## 🧩 Projects
-- 🏠 [House Website](https://github.com/your-repo)
-- 🔐 [Neurohub](https://github.com/your-repo)
-- 📖 [RAG Reader](https://github.com/your-repo)
-- 🍿 [Crave Finder](https://github.com/your-repo)
-
----
-
-## 📍 Contact Me
-
-- 📍 Bhimavaram  
-- 📧 mohansivathota@srkrce.edu.in  
-- 💼 [LinkedIn](https://linkedin.com/in/your-id)  
-- 📸 [Instagram](https://instagram.com/your-id)  
-- 📘 [Facebook](https://facebook.com/your-id)  
-- 💬 [Telegram](https://t.me/your-id)
+- 🧑‍⚕️ [Safe kerala](https://safe-kerala.vercel.app/)
+- 🏠 [House Website]([https://github.com/your-repo](https://csd-it-house-website-swapanths-projects.vercel.app/events))
+- 🔐 [Neurohub](https://nueroempowerment.vercel.app/)
+- 👟 [footware](https://shoecollection.vercel.app/hero)
+- 
 
 ---
 
@@ -63,7 +53,7 @@ A passionate **Full-Stack Web Developer & Designer**, always exploring new techn
 ### 🛠️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,notion,netlify,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,vscode" />
 </p>
 
 
