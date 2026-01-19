@@ -57,16 +57,16 @@ A passionate **Full-Stack Web Developer & Designer**, always exploring new techn
 </p>
 
 
----
-
-🚀 *Always learning, always building.*  
-🤝 *Open to collaborations & innovative ideas.*
-
 
 ### 🧠 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,javascript" />
 </p>
+
+---
+
+🚀 *Always learning, always building.*  
+🤝 *Open to collaborations & innovative ideas.*
 
 
