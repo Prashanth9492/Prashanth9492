@@ -24,7 +24,7 @@ A passionate **Full-Stack Web Developer & Designer**, always exploring new techn
 - 🧑‍⚕️ [Safe kerala](https://safe-kerala.vercel.app/)
 - 🏠 [House Website](https://csd-it-house-website-swapanths-projects.vercel.app/events)
 - 🔐 [Neurohub](https://nueroempowerment.vercel.app/)
-- 👟 [footware](https://shoecollection.vercel.app/hero)
+- 👟 [footware](https://sole-mart-x.vercel.app/)
   
 
 ---
